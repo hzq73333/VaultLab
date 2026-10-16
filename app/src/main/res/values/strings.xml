@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VaultLab</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="error_generic">Something went wrong. Check your connection and try again.</string>
+    <string name="copied">Copied</string>
+
+    <string name="tool_temp_mail">Temp Mail</string>
+    <string name="tool_temp_mail_desc">Disposable inbox for sign-ups, so your real email stays private.</string>
+    <string name="tool_virus_scan">Virus Scan</string>
+    <string name="tool_virus_scan_desc">Scan files and links with 70+ engines through VirusTotal.</string>
+    <string name="tool_settings">Settings</string>
+
+    <string name="tempmail_title">Temp Mail</string>
+    <string name="tempmail_intro">Create a throwaway address and use it instead of your real email.</string>
+    <string name="tempmail_create">New address</string>
+    <string name="tempmail_refresh">Refresh</string>
+    <string name="tempmail_copy">Copy</string>
+    <string name="tempmail_address_label">Your address</string>
+    <string name="tempmail_empty">No messages yet.</string>
+
+    <string name="vt_title">Virus Scan</string>
+    <string name="vt_url_hint">Link (https://...)</string>
+    <string name="vt_scan_url">Scan link</string>
+    <string name="vt_pick_file">Choose a file to scan</string>
+    <string name="vt_file_limit">Files up to 32 MB.</string>
+    <string name="vt_no_key">Add your VirusTotal API key in Settings first.</string>
+    <string name="vt_invalid_key">VirusTotal rejected the API key. Check it in Settings.</string>
+    <string name="vt_rate_limit">VirusTotal rate limit reached. Wait a minute and try again.</string>
+    <string name="vt_too_big">This file is larger than 32 MB.</string>
+    <string name="vt_scanning">Scanning, this can take a minute or two…</string>
+    <string name="vt_clean">No threats found</string>
+    <string name="vt_dangerous">Threats detected</string>
+    <string name="vt_stats">Malicious: %1$d · Suspicious: %2$d · Harmless: %3$d · Undetected: %4$d</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_vt_key">VirusTotal API key</string>
+    <string name="settings_vt_hint">Get a free key at virustotal.com. It is stored encrypted on this device only and is sent only to VirusTotal.</string>
+    <string name="settings_save">Save</string>
+    <string name="settings_clear">Clear</string>
+    <string name="settings_saved">Saved</string>
+    <string name="settings_cleared">Key removed</string>
+</resources>

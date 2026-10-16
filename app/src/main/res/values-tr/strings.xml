@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VaultLab</string>
+    <string name="back">Geri</string>
+    <string name="close">Kapat</string>
+    <string name="error_generic">Bir sorun oluştu. Bağlantını kontrol edip tekrar dene.</string>
+    <string name="copied">Kopyalandı</string>
+
+    <string name="tool_temp_mail">Geçici E-posta</string>
+    <string name="tool_temp_mail_desc">Kayıt olurken gerçek e-postanı vermemek için tek kullanımlık gelen kutusu.</string>
+    <string name="tool_virus_scan">Virüs Tarama</string>
+    <string name="tool_virus_scan_desc">Dosya ve linkleri VirusTotal üzerinden 70+ motorla tara.</string>
+    <string name="tool_settings">Ayarlar</string>
+
+    <string name="tempmail_title">Geçici E-posta</string>
+    <string name="tempmail_intro">Tek kullanımlık bir adres oluştur ve gerçek e-posta yerine onu kullan.</string>
+    <string name="tempmail_create">Yeni adres</string>
+    <string name="tempmail_refresh">Yenile</string>
+    <string name="tempmail_copy">Kopyala</string>
+    <string name="tempmail_address_label">Adresin</string>
+    <string name="tempmail_empty">Henüz mesaj yok.</string>
+
+    <string name="vt_title">Virüs Tarama</string>
+    <string name="vt_url_hint">Link (https://...)</string>
+    <string name="vt_scan_url">Linki tara</string>
+    <string name="vt_pick_file">Taranacak dosyayı seç</string>
+    <string name="vt_file_limit">32 MB\'a kadar dosyalar.</string>
+    <string name="vt_no_key">Önce Ayarlar\'dan VirusTotal API anahtarını ekle.</string>
+    <string name="vt_invalid_key">VirusTotal API anahtarını reddetti. Ayarlar\'dan kontrol et.</string>
+    <string name="vt_rate_limit">VirusTotal istek limitine ulaşıldı. Bir dakika bekleyip tekrar dene.</string>
+    <string name="vt_too_big">Bu dosya 32 MB\'tan büyük.</string>
+    <string name="vt_scanning">Taranıyor, bu bir iki dakika sürebilir…</string>
+    <string name="vt_clean">Tehdit bulunamadı</string>
+    <string name="vt_dangerous">Tehdit tespit edildi</string>
+    <string name="vt_stats">Zararlı: %1$d · Şüpheli: %2$d · Zararsız: %3$d · Tespit edilmedi: %4$d</string>
+
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_vt_key">VirusTotal API anahtarı</string>
+    <string name="settings_vt_hint">virustotal.com adresinden ücretsiz anahtar alabilirsin. Sadece bu cihazda şifreli saklanır ve yalnızca VirusTotal\'a gönderilir.</string>
+    <string name="settings_save">Kaydet</string>
+    <string name="settings_clear">Temizle</string>
+    <string name="settings_saved">Kaydedildi</string>
+    <string name="settings_cleared">Anahtar silindi</string>
+</resources>
